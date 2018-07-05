@@ -1,0 +1,19 @@
+I-Logix-RPY-Archive version 8.12.0 * 9738229
+
+- filesTable = { IRPYRawContainer 
+	- size = 12;
+	- value = "SoftwareModel.rpy" ""
+	"SoftwareModel_rpy\\Default.sbs" "Default"
+	"SoftwareModel_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"SoftwareModel_rpy\\SoftwarePack1.sbs" "SoftwarePack1"
+	"SoftwareModel_rpy\\SoftwarePack2.sbs" "SoftwarePack2"
+	"SoftwareModel_rpy\\SoftwarePack3.sbs" "SoftwarePack3"
+	"SoftwareModel_rpy\\SoftwarePack4.sbs" "SoftwarePack4"
+	"SoftwareModel_rpy\\SoftwarePack5.sbs" "SoftwarePack5"
+	"SoftwareModel_rpy\\SwClass1.cls" "SoftwarePack1::SwClass1"
+	"SoftwareModel_rpy\\SwClass2.cls" "SoftwarePack2::SwClass2"
+	"SoftwareModel_rpy\\SwClass4.cls" "SoftwarePack4::SwClass4"
+	"SoftwareModel_rpy\\SwClass5.cls" "SoftwarePack5::SwClass5"
+	
+}
+
